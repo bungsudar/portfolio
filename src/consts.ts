@@ -1,7 +1,7 @@
 import type { IconEntry, IconMap, SocialLink, Site, Person } from '@/types'
 
 export const SITE: Site = {
-  title: 'Sudar Blogger',
+  title: 'Blog Kang Sudar',
   description:
     'Catatan Harian Blog Kang Sudar',
   author: 'sudarmanto',
